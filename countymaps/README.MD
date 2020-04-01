@@ -1,4 +1,4 @@
-This dropbox folder includes 4 files.
+This directory includes 4 files.
 
 1. county_maps_creation.do
 
