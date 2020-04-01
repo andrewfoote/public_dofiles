@@ -1,10 +1,14 @@
-This dropbox folder includes 4 files.
+# README file for state mapping files
+
+## Program files
 
 1. state_maps_creation.do
 
 This do-file uses state_map.dta and statecoor.dta to make a map.
 Users must set locals at the beginning of the do-file, and everything else
 should run by itself.
+
+## Input files
 
 2. state_map.dta and 3. statecoor.dta
 
