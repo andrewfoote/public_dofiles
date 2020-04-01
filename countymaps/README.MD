@@ -1,10 +1,14 @@
-This directory includes 4 files.
+# README file for county mapping files
+
+## Program files
 
 1. county_maps_creation.do
 
 This do-file uses county.dta and countyCOOR.dta to make a map.
 Users must set locals at the beginning of the do-file, and everything else
 should run by itself.
+
+## Input files
 
 2. county.dta and 3. countyCOOR.dta
 
